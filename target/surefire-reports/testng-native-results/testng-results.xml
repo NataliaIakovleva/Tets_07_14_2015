@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="65" started-at="2015-07-14T03:25:53Z" finished-at="2015-07-14T03:25:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="65" started-at="2015-07-14T03:25:53Z" finished-at="2015-07-14T03:25:53Z">
+      <class name="first.my.SecondTest">
+        <test-method status="PASS" signature="TestFirst()[pri:0, instance:first.my.SecondTest@dfd3711]" name="TestFirst" duration-ms="26" started-at="2015-07-13T20:25:53Z" finished-at="2015-07-13T20:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFirst -->
+        <test-method status="PASS" signature="TestSecond()[pri:0, instance:first.my.SecondTest@dfd3711]" name="TestSecond" duration-ms="0" started-at="2015-07-13T20:25:53Z" finished-at="2015-07-13T20:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSecond -->
+        <test-method status="PASS" signature="TestThird()[pri:0, instance:first.my.SecondTest@dfd3711]" name="TestThird" duration-ms="1" started-at="2015-07-13T20:25:53Z" finished-at="2015-07-13T20:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThird -->
+      </class> <!-- first.my.SecondTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
