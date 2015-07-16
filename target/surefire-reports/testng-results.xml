@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="55" started-at="2015-07-14T03:51:56Z" finished-at="2015-07-14T03:51:56Z">
+  <suite name="Surefire suite" duration-ms="78" started-at="2015-07-16T03:20:30Z" finished-at="2015-07-16T03:20:30Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="55" started-at="2015-07-14T03:51:56Z" finished-at="2015-07-14T03:51:56Z">
+    <test name="Surefire test" duration-ms="78" started-at="2015-07-16T03:20:30Z" finished-at="2015-07-16T03:20:30Z">
       <class name="first.my.SecondTest">
-        <test-method status="PASS" signature="TestFirst()[pri:0, instance:first.my.SecondTest@3930015a]" name="TestFirst" duration-ms="22" started-at="2015-07-13T20:51:56Z" finished-at="2015-07-13T20:51:56Z">
+        <test-method status="PASS" signature="TestFirst()[pri:0, instance:first.my.SecondTest@2d6a9952]" name="TestFirst" duration-ms="32" started-at="2015-07-15T20:20:30Z" finished-at="2015-07-15T20:20:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFirst -->
-        <test-method status="PASS" signature="TestSecond()[pri:0, instance:first.my.SecondTest@3930015a]" name="TestSecond" duration-ms="1" started-at="2015-07-13T20:51:56Z" finished-at="2015-07-13T20:51:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestSecond -->
-        <test-method status="PASS" signature="TestThird()[pri:0, instance:first.my.SecondTest@3930015a]" name="TestThird" duration-ms="0" started-at="2015-07-13T20:51:56Z" finished-at="2015-07-13T20:51:56Z">
+        <test-method status="PASS" signature="TestThird()[pri:0, instance:first.my.SecondTest@2d6a9952]" name="TestThird" duration-ms="0" started-at="2015-07-15T20:20:30Z" finished-at="2015-07-15T20:20:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestThird -->
+        <test-method status="PASS" signature="TestSecond()[pri:0, instance:first.my.SecondTest@2d6a9952]" name="TestSecond" duration-ms="0" started-at="2015-07-15T20:20:30Z" finished-at="2015-07-15T20:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSecond -->
       </class> <!-- first.my.SecondTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
